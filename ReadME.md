@@ -9,5 +9,5 @@ test your code and larger graphs to verify the robustness of implementations. So
 can be found in Stanford repository
 * Task 5: Record your experimental results along with the documentation of algorithm
 
-![Flow Chart of Ford Fulkesen](https://www.researchgate.net/profile/Mamoru_Tanaka/publication/316778297/figure/fig1/AS:628861419126784@1526943654299/Flow-chart-of-min-cut-algorithm-by-Ford-Fulkerson-algorithm.png)
+![Flow Chart of Ford Fulkesen](/img/ex1.png)
 This is an implementation of the famous for-fulkersen algorithm for finding the maximum flow in a network
