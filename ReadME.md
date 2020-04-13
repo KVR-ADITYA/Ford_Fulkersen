@@ -10,4 +10,5 @@ can be found in Stanford repository
 * Task 5: Record your experimental results along with the documentation of algorithm
 
 ![Flow Chart of Ford Fulkesen](/img/ex1.png)
+
 This is an implementation of the famous for-fulkersen algorithm for finding the maximum flow in a network
