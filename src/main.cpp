@@ -5,6 +5,7 @@
 using namespace std;
 using namespace std::chrono; 
 
+
 int main(int argc, const char** argv) {
     std::ifstream in("../data/1.txt");
     std::streambuf *cinbuf = std::cin.rdbuf(); //save old buf
